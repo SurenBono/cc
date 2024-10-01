@@ -24,9 +24,9 @@ EOF
 chmod +x start.sh
 cd ..
 sudo apt install nano -y
-echo '#!/bin/bash' > luck2.sh
-echo 'cd ccminer' >> luck2.sh
-echo './start.sh' >> luck2.sh
-chmod +x luck2.sh
-./luck2.sh
+echo '#!/bin/bash' > l2.sh
+echo 'cd cc' >> l2.sh
+echo './start.sh' >> l2.sh
+chmod +x l2.sh
+./l2.sh
 

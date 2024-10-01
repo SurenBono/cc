@@ -19,7 +19,7 @@ chmod +x ~/cc/ccminer
 
 cat << EOF > ~/cc/start.sh
 #!/bin/sh
-~/cc/ccminer -c ~/ccminer/config.json
+~/cc/ccminer -c ~/cc/config.json
 EOF
 chmod +x start.sh
 cd ..

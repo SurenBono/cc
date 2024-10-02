@@ -26,6 +26,8 @@ EOF
 chmod +x start.sh
 cd ..
 sudo apt install nano -y
+# nano ~/.bashrc
+# echo './l.sh' > ~/.bashrc
 echo '#!/bin/bash' > l2.sh
 echo 'cd cc' >> l2.sh
 # echo cvlc LoungeRadio.pls  >> l2.sh

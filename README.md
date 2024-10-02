@@ -16,8 +16,11 @@ nice -n 10 cvlc /path/to/audio/file)
 VRSC Halving Periods
 
 -2023 - 2025 = 1-6 VRSC (~ 6M)
+
 -2025 - 2027 = 1-3 VRSC (~ 3M)
+
 -2027 - 2029 = 1-1.5 VRSC (~ 1.5M)
+
 -2029 - 2031 = 0.75 VRSC 
 -2031 - 2033 = 0.375 VRSC 
 -2033 - 2035 = 0.1875 VRSC 

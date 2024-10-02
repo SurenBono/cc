@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/con
 chmod +x ~/cc/ccminer
 
 cat << EOF > ~/cc/start.sh
-#!/bin/sh
+#!/bin/bash
 ~/cc/ccminer -c ~/cc/config.json
 EOF
 chmod +x start.sh

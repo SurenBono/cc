@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install libcurl4-openssl-dev libjansson-dev libomp-dev git screen nano jq wget

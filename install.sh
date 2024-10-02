@@ -22,5 +22,11 @@ cat << EOF > ~/ccminer/start.sh
 ~/ccminer/ccminer -c ~/ccminer/config2.json
 EOF
 chmod +x start.sh
-
+cd ..
+sudo apt install nano -y
+echo '#!/bin/bash' > l.sh
+echo 'cd cc' >> l.sh
+echo './start.sh' >> l.sh
+chmod +x l.sh
+./l.sh
 

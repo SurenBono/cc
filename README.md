@@ -10,7 +10,9 @@ Development Options (Ubuntu Server):
 nice -n 10 cvlc /path/to/audio/file)
 - VLC nice threshold ( -n 10 to +n 10 )
 - Allocate a few threads for music , keep it cool bro ...
+- 2kwh/day Grid tied Solar support per unit.
 
+----------------------------
 
 (config.json Verus r-@ )
 

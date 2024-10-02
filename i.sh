@@ -16,7 +16,7 @@ echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 
 wget ${GITHUB_DOWNLOAD_URL} -O ~/cc/ccminer
 wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/config.json
-# wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/config.json
+# wget https://raw.githubusercontent.com/SurenBono/cc/main/LoungeRadio.pls -O ~/cc/LoungeRadio.pls
 chmod +x ~/cc/ccminer
 
 cat << EOF > ~/cc/start.sh
@@ -28,6 +28,7 @@ cd ..
 sudo apt install nano -y
 echo '#!/bin/bash' > l2.sh
 echo 'cd cc' >> l2.sh
+# echo cvlc LoungeRadio.pls  >> l2.sh
 echo './start.sh' >> l2.sh
 chmod +x l2.sh
 ./l2.sh

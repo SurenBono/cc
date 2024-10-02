@@ -5,7 +5,7 @@ Development Options (Ubuntu Server):
 
 - 1 terminal bash starts the miner.
 - Automatically Run miner on each
-  reboot.
+  reboot.( ~/.bashrc )
 - Run Terminal Streaming Radio on VLC player with cvlc command (
 nice -n 10 cvlc /path/to/audio/file)
 - VLC nice threshold ( -n 10 to +n 10 )

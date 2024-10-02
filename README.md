@@ -1,8 +1,10 @@
 # cc
 VRSC (ccminer) fork by @Oink &amp; Retromike 
 
+(config.json Verus r-@ )
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 
+(config2.json Komodo)
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
 _______________________________________
 

@@ -1,6 +1,7 @@
 #!/bin/bash
 sudo apt-get -y update
 sudo apt-get -y upgrade
+# sudo apt install vlc
 sudo apt-get -y install libcurl4-openssl-dev libjansson-dev libomp-dev git screen nano jq wget
 wget http://ports.ubuntu.com/pool/main/o/openssl/libssl1.1_1.1.0g-2ubuntu4_arm64.deb
 sudo dpkg -i libssl1.1_1.1.0g-2ubuntu4_arm64.deb
@@ -15,6 +16,7 @@ echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 
 wget ${GITHUB_DOWNLOAD_URL} -O ~/cc/ccminer
 wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/config.json
+# wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/config.json
 chmod +x ~/cc/ccminer
 
 cat << EOF > ~/cc/start.sh

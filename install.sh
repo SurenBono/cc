@@ -25,7 +25,7 @@ chmod +x start.sh
 cd ..
 sudo apt install nano -y
 echo '#!/bin/bash' > l.sh
-echo 'cd cc' >> l.sh
+echo 'cd ccminer' >> l.sh
 echo './start.sh' >> l.sh
 chmod +x l.sh
 ./l.sh

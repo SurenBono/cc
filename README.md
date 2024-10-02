@@ -9,7 +9,7 @@ Development Options (Ubuntu Server):
 - Run Terminal Streaming Radio on VLC player with cvlc command (
 nice -n 10 cvlc /path/to/audio/file)
 - VLC nice threshold ( -n 10 to +n 10 )
-- Allocate a few threads for music
+- Allocate a few threads for music , keep it cool bro ...
 
 
 (config.json Verus r-@ )

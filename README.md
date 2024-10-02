@@ -8,7 +8,7 @@ Development Options (Ubuntu Server):
   reboot.
 - Run Terminal Streaming Radio on VLC player with cvlc command (
 nice -n 10 cvlc /path/to/audio/file)
-- VLC nice priority ( -n 10 to +n 10 )
+- VLC nice threshold ( -n 10 to +n 10 )
 - Allocate a few threads for music
 
 

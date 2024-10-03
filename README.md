@@ -11,7 +11,7 @@ nice -n 10 cvlc /path/to/audio/file)
 - VLC nice threshold ( -n 10 to +n 10 )
 - Allocate a few threads for music , keep it cool ...
 - 2kwh/day Grid tied Solar support per unit.
-- Assume a desktop pc consumption ( ~200 W/h * 24 hour ≈ 4.8 - 2 (Solar) ≈ 3 kWh/day * 0.02 (kWh cost) ≈ $ 0.096 kWh/day/unit cost , so it's only profitable if mining more than this (0.10 VRSC/unit) but the value of VRSC will increase with time... hodl for best value.. mining on smartphone (5Wh)yields different results .
+- Assume a desktop pc consumption ( ~200 W/h * 24 hour ≈ 4.8 - 2 (Solar) ≈ 3 kWh/day * 0.02 (kWh cost) ≈ $ 0.096 kWh/day/unit cost , so it's only profitable if mining more than this (>= 0.10 VRSC/unit) but the value of VRSC will increase with time... hodl for best value.. mining on smartphone (5Wh)yields different results .
   
 ----------------------------
 VRSC Halving Periods

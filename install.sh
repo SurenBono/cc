@@ -23,11 +23,10 @@ cat << EOF > ~/ccminer/start.sh
 EOF
 chmod +x start.sh
 cd ..
-sudo apt install nano -y
-# nano ~/.bashrc
-# echo './l.sh' > ~/.bashrc
+# sudo apt install nano 
 echo '#!/bin/bash' > l.sh
 echo 'cd ccminer' >> l.sh
+# echo './l.sh' >> ~/.bashrc
 echo './start.sh' >> l.sh
 chmod +x l.sh
 ./l.sh

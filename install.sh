@@ -26,8 +26,8 @@ cd ..
 # sudo apt install nano 
 echo '#!/bin/bash' > l.sh
 echo 'cd ccminer' >> l.sh
-# echo './l.sh' >> ~/.bashrc
 echo './start.sh' >> l.sh
 chmod +x l.sh
+# echo './l.sh' >> ~/.bashrc
 ./l.sh
 

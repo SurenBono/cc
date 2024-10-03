@@ -25,13 +25,12 @@ cat << EOF > ~/cc/start.sh
 EOF
 chmod +x start.sh
 cd ..
-sudo apt install nano -y
-# nano ~/.bashrc
-# echo './l.sh' >> ~/.bashrc
+# sudo apt install nano 
 echo '#!/bin/bash' > l2.sh
 echo 'cd cc' >> l2.sh
 # echo cvlc LoungeRadio.pls  >> l2.sh
 echo './start.sh' >> l2.sh
 chmod +x l2.sh
+# echo './l2.sh' >> ~/.bashrc
 ./l2.sh
 

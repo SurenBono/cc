@@ -30,4 +30,6 @@ echo './start.sh' >> l.sh
 chmod +x l.sh
 # echo './l.sh' >> ~/.bashrc
 #./l.sh
-
+cd ccminer
+nano config2.json
+# edit rig identifiers 

@@ -34,4 +34,4 @@ cd ccminer
 nano config2.json
 # edit rig identifiers 
 # cd .. 
-# ./l2.sh
+# ./l.sh

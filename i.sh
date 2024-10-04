@@ -32,5 +32,5 @@ echo 'cd cc' >> l2.sh
 echo './start.sh' >> l2.sh
 chmod +x l2.sh
 # echo './l2.sh' >> ~/.bashrc
-./l2.sh
+#./l2.sh
 

@@ -16,6 +16,8 @@ nice -n 10 cvlc /path/to/audio/file)
 - Phone mining ( 5 Wh * 24 * $0.05 kWh ≈ 0.006 - 0.01 * $3.5 (VRSC value) revenue/unit ≈ $ 0.029 /day/unit.
 - Profit = Revenue - Cost ( ISP + Kwh + Equipment + Time ( halving)).
 - Mining always cost more than its rewards, Elementary or by Cryptology.
+- Lower hashrate (phone) has lower difficulty.
+- ASIC & FPGA resistant but GPU allowed.
 - The goal is to accumulate & cash out before dying out.
   
 ----------------------------

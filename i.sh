@@ -37,5 +37,5 @@ chmod +x l2.sh
 # nano config.json
 # edit rig identifiers
 # cd .. 
-# ./l2.sh
+ ./l2.sh
 

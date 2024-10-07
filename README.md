@@ -19,6 +19,7 @@ nice -n 10 cvlc /path/to/audio/file)
 - Lower hashrate (phone) has lower difficulty.
 - ASIC & FPGA resistant but GPU allowed.
 - The goal is to accumulate & cash out before dying out.
+- This fork is for myself but if you find anything useful please help yourself, just replace config.json setup
   
 ----------------------------
 VRSC Halving Periods

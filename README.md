@@ -1,5 +1,5 @@
 # cc
-VRSC (ccminer) fork by @Oink &amp; Retromike 64bit machines only ...
+VRSC (ccminer) fork by @Oink &amp; Retromike 64bit machines only tested on UserLand ...
 
 Development Options (Ubuntu Server):
 

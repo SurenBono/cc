@@ -33,9 +33,9 @@ echo './start.sh' >> l2.sh
 chmod +x l2.sh
 # echo './l2.sh' >> ~/.bashrc
 #./l2.sh
-cd cc
-nano config.json
+# cd cc
+# nano config.json
 # edit rig identifiers
 # cd .. 
-./l2.sh
+# ./l2.sh
 

@@ -55,6 +55,10 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
 _______________________________________
 
+Phonemining "HardWorkLuck" Transparent Revenues ..
+
+![](luckpool-userland.png)
+
 Komodo Blockchain: config.json
 https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 

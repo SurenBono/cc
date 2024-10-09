@@ -64,6 +64,5 @@ Verus Blockchain: config2.json
 https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 ---------------------------------------
 
-![Verus-Desktop-Ubuntu](/Screenshot from 2024-10-09 00-26-11.png)
-
+!(cc/Screenshot from 2024-10-09 00-26-11.png)
 -EOF- 

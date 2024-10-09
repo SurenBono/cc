@@ -52,8 +52,6 @@ VRSC Halving Periods
 
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 
-![Verus-Desktop-Ubuntu](/config2.json Komodo)
-
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
 _______________________________________
 

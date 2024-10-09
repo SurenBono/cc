@@ -52,7 +52,7 @@ VRSC Halving Periods
 
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 
-(config2.json Komodo)
+![Verus-Desktop-Ubuntu](/config2.json Komodo)
 
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
 _______________________________________
@@ -64,6 +64,6 @@ Verus Blockchain: config2.json
 https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 ---------------------------------------
 
-![Verus-Desktop-Ubuntu](Screenshot from 2024-10-09 00-26-11.png)
+!(Screenshot from 2024-10-09 00-26-11.png)
 
 -EOF- 

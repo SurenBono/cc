@@ -62,7 +62,7 @@ https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 
 Verus Blockchain: config2.json https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 
-!(cc/Screenshot from 2024-10-09 00-26-11.png)
+!(Verus-Desktop-Ubuntu.png)
 
 
 -EOF- 

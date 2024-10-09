@@ -80,5 +80,7 @@ Download from https://verus.io/wallet/desktop
 - ./Verus-Desktop-v1.2.4-2-x86_64.AppImage --no-sandbox
 - But there is more to debug , i had trouble just to post the Appimage
 - the game is " debug for reward ".
+- Ubuntu goals links to Machine+Humanitarian efforts ..
+- I imagined 8 Billion daily account payouts for everyone...
 
 -EOF- 

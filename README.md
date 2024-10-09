@@ -61,8 +61,21 @@ Komodo Blockchain: config.json
 https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 
 Verus Blockchain: config2.json https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
+_______________________________________
 
+Example running (*.Appimage) on Linux
 
 ![Alt text](Verus-Desktop-Ubuntu.png)
+
+Download from https://verus.io/wallet/desktop
+
+- Navigate to Downloads folder & extract file via GUI
+- Navigate to extracted folder
+- Open terminal there..
+- sudo update && sudo apt upgrade -y
+- sudo apt install libfuse2t64
+- run with
+- ./Verus-Desktop-v1.2.4-2-x86_64.AppImage --no-sandbox
+- But there is more to debug , i had trouble just to post the Appimage
 
 -EOF- 

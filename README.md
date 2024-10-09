@@ -57,7 +57,7 @@ _______________________________________
 
 Phonemining "HardWorkLuck" Transparent Revenues ..
 
-![](luckpool-userland.png)
+![](luckpool-userland.jpg)
 
 Komodo Blockchain: config.json
 https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB

@@ -83,4 +83,6 @@ Download from https://verus.io/wallet/desktop
 - Ubuntu goals links to Machine+Humanitarian efforts ..
 - I imagined 8 Billion daily account payouts for everyone...
 
+![](TheFlag.jpeg)
+
 -EOF- 

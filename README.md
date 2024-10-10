@@ -87,6 +87,21 @@ Download from https://verus.io/wallet/desktop
 - Ubuntu goals links to Machine+Humanitarian efforts ..
 - I imagined 8 Billion daily account payouts for everyone...
 
-![](TheFlag.jpeg)
+  What's The Catch:
+  - Kwh , grid & off grid efficiency
+  - betterment of CPU & GPU
+  - Thermal engineering 
+  - ISP & Government recognition
+  - Server & web3 Community 
+  - Humanitarian effort
+  - Cognition & passive income
+  - Global exposures
+  - Banking independence
+  - Cryptology & encryption security
+  - Open source legitimacy
+  - Unity , Peace & Prosperity
+  
+![](TheFlagOfHumanity.jpg)
+Planet Earth, Sol Star System, Milkyway .
 
--EOF- 
+            -EOF- 

@@ -65,7 +65,7 @@ https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 Verus Blockchain: config2.json https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 _______________________________________
 Wallets:
-![](verus.jpg)![](komodo.jpg)
+![](wallet.png)
 
 _______________________________________
 

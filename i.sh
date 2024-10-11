@@ -26,16 +26,16 @@ EOF
 chmod +x start.sh
 cd ..
 # sudo apt install nano 
-echo '#!/bin/bash' > l2.sh
-echo 'cd cc' >> l2.sh
-# echo cvlc LoungeRadio.pls  >> l2.sh
-echo './start.sh' >> l2.sh
-chmod +x l2.sh
-# echo './l2.sh' >> ~/.bashrc
-#./l2.sh
+echo '#!/bin/bash' > l.sh
+echo 'cd cc' >> l.sh
+# echo cvlc LoungeRadio.pls  >> l.sh
+echo './start.sh' >> l.sh
+chmod +x l.sh
+# echo './l.sh' >> ~/.bashrc
+#./l.sh
 # cd cc
 # nano config.json
 # edit rig identifiers
 # cd .. 
-# ./l2.sh
+# ./l.sh
 

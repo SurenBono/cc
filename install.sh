@@ -24,14 +24,14 @@ EOF
 chmod +x start.sh
 cd ..
 # sudo apt install nano 
-echo '#!/bin/bash' > l.sh
-echo 'cd ccminer' >> l.sh
-echo './start.sh' >> l.sh
-chmod +x l.sh
-# echo './l.sh' >> ~/.bashrc
-#./l.sh
+echo '#!/bin/bash' > l2.sh
+echo 'cd ccminer' >> l2.sh
+echo './start.sh' >> l2.sh
+chmod +x l2.sh
+# echo './l2.sh' >> ~/.bashrc
+#./l2.sh
 # cd ccminer
 # nano config2.json
 # edit rig identifiers 
 # cd .. 
-# ./l.sh
+# ./l2.sh

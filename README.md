@@ -100,6 +100,7 @@ Download from https://verus.io/wallet/desktop
   - Cryptology & encryption security
   - Open source legitimacy
   - Unity , Peace & Prosperity
+  - Actually its $100 per registration id
   
 ![](TheFlagOfHumanity.jpg)
 Planet Earth, Sol Star System, Milkyway .

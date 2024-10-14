@@ -25,6 +25,7 @@ chmod +x start.sh
 cd ..
 # sudo apt install nano 
 echo '#!/bin/bash' > l2.sh
+echo 'sudo apt update && sudo apt upgrade -y' >> l2.sh
 echo 'cd ccminer' >> l2.sh
 echo './start.sh' >> l2.sh
 chmod +x l2.sh

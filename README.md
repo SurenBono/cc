@@ -101,7 +101,7 @@ Download from https://verus.io/wallet/desktop
   - Open source legitimacy
   - Unity , Peace & Prosperity
   - Actually its $100 per registration id but i never paid anything yet..
-  - a verus discord (user.valuid@) miner..
+  - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
   
 ![](TheFlagOfHumanity.jpg)
 Planet Earth, Sol Star System, Milkyway .

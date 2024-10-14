@@ -27,6 +27,7 @@ chmod +x start.sh
 cd ..
 # sudo apt install nano 
 echo '#!/bin/bash' > l.sh
+echo 'sudo apt update && sudo apt upgrade -y' >> l.sh
 echo 'cd cc' >> l.sh
 # echo cvlc LoungeRadio.pls  >> l.sh
 echo './start.sh' >> l.sh

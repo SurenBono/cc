@@ -107,4 +107,4 @@ Download from https://verus.io/wallet/desktop
 The Flag Of Humanity,
 Planet Earth, Sol Star System, Milkyway .
 
-               -EOF- 
+                 -EOF- 

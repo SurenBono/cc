@@ -49,9 +49,9 @@ VRSC Halving Periods
 ----------------------------
 
 (config.json Verus r-@ )
-,,,
+
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
-,,,
+
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
 _______________________________________
 

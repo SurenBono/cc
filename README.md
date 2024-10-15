@@ -104,6 +104,7 @@ Download from https://verus.io/wallet/desktop
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
   
 ![TheFlagOfHumanity](TheFlagOfHumanity.jpg)
+The Flag Of Humanity,
 Planet Earth, Sol Star System, Milkyway .
 
             -EOF- 

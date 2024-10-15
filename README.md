@@ -103,7 +103,7 @@ Download from https://verus.io/wallet/desktop
   - Actually its $100 per registration id but i never paid anything yet..
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
   
-![](TheFlagOfHumanity.jpg)
+![TheFlagOfHumanity](TheFlagOfHumanity.jpg)
 Planet Earth, Sol Star System, Milkyway .
 
             -EOF- 

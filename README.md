@@ -1,5 +1,5 @@
 # cc (ccminer fork)
-VRSC (ccminer) fork by @Oink &amp; Retromike, 64bit machines only tested on UserLand , Lubuntu 32bit failed ...
+VRSC (ccminer) fork by Oink@ &amp; Retromike, 64bit machines only tested on UserLand , Lubuntu 32bit failed ...
 
 Development Options (Ubuntu Server):
 

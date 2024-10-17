@@ -25,7 +25,6 @@ cat << EOF > ~/ccv/start.sh
 EOF
 chmod +x start.sh
 cd ..
-cd ..
 # sudo apt install nano 
 echo '#!/bin/bash' > v.sh
 echo 'sudo apt update && sudo apt upgrade -y' >> v.sh

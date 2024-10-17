@@ -15,13 +15,13 @@ GITHUB_DOWNLOAD_NAME=$(echo $GITHUB_RELEASE_JSON | jq -r ".[0].assets | .[] | .n
 echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 
 wget ${GITHUB_DOWNLOAD_URL} -O ~/ccv/ccminer
-wget https://raw.githubusercontent.com/SurenBono/cc/main/vipor.json -O ~/ccv/config.json
+wget https://raw.githubusercontent.com/SurenBono/cc/main/config3.json -O ~/ccv/config3.json
 # wget https://raw.githubusercontent.com/SurenBono/cc/main/LoungeRadio.pls -O ~/cc/LoungeRadio.pls
 chmod +x ~/ccv/ccminer
 
 cat << EOF > ~/ccv/start.sh
 #!/bin/bash
-~/ccv/ccminer -c ~/ccv/config.json
+~/ccv/ccminer -c ~/ccv/config3.json
 EOF
 chmod +x start.sh
 cd ..
@@ -36,7 +36,7 @@ chmod +x v.sh
 # echo './v.sh' >> ~/.bashrc
 #./v.sh
 # cd ccv
-# nano config.json
+# nano config3.json
 # edit rig identifiers
 # cd .. 
 # ./v.sh

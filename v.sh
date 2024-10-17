@@ -36,7 +36,7 @@ chmod +x v.sh
 # echo './v.sh' >> ~/.bashrc
 #./v.sh
 # cd cc ; cd v
-# nano v.json
+# nano vipor.json
 # edit rig identifiers
 # cd .. 
 # ./v.sh

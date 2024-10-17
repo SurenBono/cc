@@ -1,0 +1,27 @@
+{
+	"pools":[
+	{
+		"name": "Viportcp",
+        	"url": "stratum+tcp://sg.vipor.net:5040",
+		"timeout": 150
+	},
+	{
+		"name": "Viportls",
+        	"url": "stratum+ssl://sg.vipor.net:5140",
+		"timeout": 150
+	},
+	{
+		"name": "Failover3",
+        	"url": "stratum+tcp://ap.luckpool.net:3956",
+		"timeout": 150
+	}
+	],
+	"user": "R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT.V10",
+	"pass": "x",
+	"algo": "verus",
+	"threads": 5,
+	"cpu-priority": 1,
+	"retry-pause": 5,
+	"api-allow": "192.168.0.0/16",
+	"api-bind": "0.0.0.0:4068"
+}

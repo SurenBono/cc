@@ -49,12 +49,20 @@ VRSC Halving Periods
 ----------------------------
 
 (config.json Verus r-@ )
-```
+```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 ```
 (config2.json Komodo-@ )
-```
+```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
+```
+(Xmrig UnMINABLE)
+```console
+curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/xm.sh | bash
+```
+(Hellminer Luckpool r-@)
+```console
+curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/hm.sh | bash
 ```
 _______________________________________
 

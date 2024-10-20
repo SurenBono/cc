@@ -54,7 +54,7 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 ```
 (config2.json Komodo-@ )
 ```console
-curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/install.sh | bash
+curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/k.sh | bash
 ```
 (Xmrig UnMINABLE)
 ```console

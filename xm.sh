@@ -16,5 +16,5 @@ chmod +x ltc.sh
 echo '#!/bin/bash' > rtm.sh
 echo 'sudo apt update && sudo apt upgrade -y' >> rtm.sh
 echo 'cd xmrig/build' >> rtm.sh
-echo './xmrig -a gr -o stratum+ssl://ghostrider.unmineable.com:443 -u RTM:RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB.RTM_KMD_S2#737o-wx6f -p x' >> rtm.sh
+echo './xmrig -a gr -o stratum+ssl://ghostrider.unmineable.com:443 -u RTM:RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB.RTM_KMD_01#737o-wx6f -p x' >> rtm.sh
 chmod +x rtm.sh

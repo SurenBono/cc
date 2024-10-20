@@ -76,13 +76,13 @@ https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 Verus Blockchain: config2.json https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 _______________________________________
 Wallets:
-![](wallet.png)
+![](pic/wallet.png)
 
 _______________________________________
 
 Example running (*.Appimage) on Ubuntu 
 
-![Alt text](Verus-Desktop-Ubuntu.png)
+![Alt text](pic/Verus-Desktop-Ubuntu.png)
 
 Download from https://verus.io/wallet/desktop
 
@@ -114,7 +114,7 @@ Download from https://verus.io/wallet/desktop
   - Actually its $100 per registration id but i never paid anything yet..
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
   
-![TheFlagOfHumanity](TheFlagOfHumanity.jpg)
+![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,
 Planet Earth, Sol Star System, Milkyway .
 

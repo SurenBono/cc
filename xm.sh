@@ -5,8 +5,8 @@ git clone https://github.com/xmrig/xmrig.git
 mkdir xmrig/build && cd xmrig/build
 cmake ..
 make -j$(nproc)
-
 cd ~
+
 echo '#!/bin/bash' > ltc.sh
 echo 'sudo apt update && sudo apt upgrade -y' >> ltc.sh
 echo 'cd xmrig/build' >> ltc.sh

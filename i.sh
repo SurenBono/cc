@@ -16,6 +16,7 @@ echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 
 wget ${GITHUB_DOWNLOAD_URL} -O ~/cc/ccminer
 wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/cc/config.json
+wget https://raw.githubusercontent.com/SurenBono/cc/main/config2.json -O ~/cc/config2.json
 # wget https://raw.githubusercontent.com/SurenBono/cc/main/LoungeRadio.pls -O ~/cc/LoungeRadio.pls
 chmod +x ~/cc/ccminer
 
@@ -32,6 +33,14 @@ echo 'cd cc' >> l.sh
 # echo cvlc LoungeRadio.pls  >> l.sh
 echo './start.sh' >> l.sh
 chmod +x l.sh
+
+cat << EOF > ~/k.sh
+#!/bin/bash
+sudo apt update && sudo apt upgrade -y
+~/cc/ccminer -c ~/cc/config2.json
+EOF
+chmod +x k.sh
+
 # echo './l.sh' >> ~/.bashrc
 #./l.sh
 # cd cc

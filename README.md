@@ -100,7 +100,7 @@ Download from https://verus.io/wallet/desktop
 
   What's The Catch:
   - Kwh , grid & off grid efficiency
-  - betterment of CPU & GPU
+  - Probably CPU & GPU Sales & Marketing 
   - Thermal engineering 
   - ISP & Government recognition
   - Server & web3 Community 

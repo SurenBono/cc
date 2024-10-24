@@ -47,7 +47,9 @@ VRSC Halving Periods
 ..its just like testosterone levels 
 
 ----------------------------
-
+```console
+sudo apt install curl
+```
 (config.json Verus r-@ )
 ```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash

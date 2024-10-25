@@ -120,4 +120,7 @@ Download from https://verus.io/wallet/desktop
 The Flag Of Humanity,
 Planet Earth, Sol Star System, Milkyway .
 
+" ... out of all Time is the most expensive things that ever existed... you can't buy a second ago no matter how much money you have.. "
+- Sroto&Gargees -
+
                  -EOF- 

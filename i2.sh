@@ -14,25 +14,32 @@ GITHUB_DOWNLOAD_NAME=$(echo $GITHUB_RELEASE_JSON | jq -r ".[0].assets | .[] | .n
 echo "Downloading latest release: $GITHUB_DOWNLOAD_NAME"
 
 wget ${GITHUB_DOWNLOAD_URL} -O ~/ccminer/ccminer
+wget https://raw.githubusercontent.com/SurenBono/cc/main/config.json -O ~/ccminer/config.json
 wget https://raw.githubusercontent.com/SurenBono/cc/main/config2.json -O ~/ccminer/config2.json
 chmod +x ~/ccminer/ccminer
 
 cat << EOF > ~/ccminer/start.sh
 #!/bin/sh
-~/ccminer/ccminer -c ~/ccminer/config2.json
+~/ccminer/ccminer -c ~/ccminer/config.json
 EOF
 chmod +x start.sh
 cd ..
-# sudo apt install nano 
+
 echo '#!/bin/bash' > l2.sh
 echo 'sudo apt update && sudo apt upgrade -y' >> l2.sh
 echo 'cd ccminer' >> l2.sh
 echo './start.sh' >> l2.sh
 chmod +x l2.sh
-# echo './l2.sh' >> ~/.bashrc
-#./l2.sh
-# cd ccminer
-# nano config2.json
+
+cat << EOF > ~/k2.sh
+#!/bin/sh
+sudo apt update && sudo apt upgrade -y
+~/ccminer/ccminer -c ~/ccminer/config2.json
+EOF
+chmod +x k2.sh
+
 # edit rig identifiers 
-# cd .. 
-# ./l2.sh
+# nano ~/ccminer/config2.json
+# nano ~/ccminer/config2.json
+# screen -S luck && bash l2.sh
+# screen -S komodo && bash k2.sh

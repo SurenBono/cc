@@ -3,6 +3,10 @@ VRSC (ccminer) fork by Oink@ &amp; Retromike, 64bit machines only tested on User
 
 Development Options (Ubuntu Server):
 
+- Dual mining test with 2 directory
+- l.sh & l2.sh run on 2 screen
+- or l.sh & k2.sh/ k.sh & k2.sh but never a l.sh & l.sh ir k.sh & k.sh becouse both are using the same config.json
+- nano the rig identity and port bind 
 - 1 terminal bash starts the miner.
 - Automatically Run miner on each
   reboot.( ~/.bashrc )

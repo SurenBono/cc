@@ -50,13 +50,13 @@ VRSC Halving Periods
 ```console
 sudo apt install curl
 ```
-(config.json Verus r-@ )
+(i.sh * 2 address) Dual mining test rig 1
 ```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 ```
-(config2.json Komodo-@ )
+(i2.sh * 2 address ) Dual miner 2nd Rig
 ```console
-curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/k.sh | bash
+curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i2.sh | bash
 ```
 (Xmrig UnMINABLE)
 ```console

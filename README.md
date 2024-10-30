@@ -119,6 +119,8 @@ Download from https://verus.io/wallet/desktop
   - Unity , Peace & Prosperity
   - Actually its $100 per registration id but i never paid anything yet..
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
+
+  Goals : Capture the flag of humanity..
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

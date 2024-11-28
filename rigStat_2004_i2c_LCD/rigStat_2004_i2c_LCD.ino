@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> // Version 5
 
 const char* ssid = "Arduino Wifi";
 const char* password = "xxxxxxxx";

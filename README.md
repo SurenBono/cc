@@ -1,4 +1,5 @@
-![](pic/LuckPoolApi.jpg).
+![](pic/20r04c_i2c_lcd.jpg)
+![](pic/LuckPoolApi.jpg)
 
 # cc (ccminer fork)
 VRSC (ccminer) fork by Oink@ &amp; Retromike, 64bit machines only tested on UserLand , Lubuntu 32bit failed ...

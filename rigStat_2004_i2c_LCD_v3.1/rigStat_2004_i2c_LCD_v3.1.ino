@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> // version 5
 
 const char* ssid = "Arduino Wifi";
 const char* password = "xxxxxxxx";
@@ -100,7 +100,7 @@ void fetchRig() {
 	
 	lcd.clear();
 	//lcd.setCursor(0,1);lcd.print("    Komodo Wallet");
-	float Komodo = Paid - 1.11721459;
+	float Komodo = Paid - 1.11721459; // to match komodo wallet balance for live monitoring 
 	lcd.setCursor(3,1);lcd.print(String(Komodo,6)+" VRSC");
 	float vrscUSD = Komodo * verusPrice ;
 	lcd.setCursor(5,3);lcd.print("USD$ "+ String(vrscUSD,2));

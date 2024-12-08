@@ -28,10 +28,9 @@ void setup() {
   
   while (WiFi.status() != WL_CONNECTED){
     delay(500);lcd.setCursor(cursorPosition,1); 
-    lcd.print(".");
-    cursorPosition++;
-    Serial.print('>');
+    lcd.print(".");cursorPosition++;Serial.print('>');
     }
+	
   lcd.clear();
   lcd.print("     Connected!");
   lcd.setCursor(1,1);

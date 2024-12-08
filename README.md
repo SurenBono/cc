@@ -1,5 +1,5 @@
 # 20*04 i2c LCD 
-... a moment somewhere in time
+   ... a moment somewhere in time
 ![](pic/20r04c_i2c_lcd.jpg)
 ![](pic/LuckPoolApi.jpg)
 

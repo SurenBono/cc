@@ -19,6 +19,7 @@ float verusPrice;
 int cursorPosition=0;
 
 void setup() {
+	
   lcd.begin();
   lcd.backlight();
   Serial.begin(9600);
@@ -71,6 +72,7 @@ void fetchRig() {
 
   StaticJsonBuffer<1024> json_buf;
   JsonObject &root = json_buf.parseObject(jsonArray);
+  
   if (!root.success())
   {Serial.println("...Rig parse failed!");lcd.clear();("...reparsing rig data");}
 
@@ -127,7 +129,7 @@ void fetchPrice(){
                    else {Serial.println("connection failed"); Serial.println();}
 
     while(client.connected() && !client.available()) delay(1); 
-    while (client.connected() || client.available()) 
+    while(client.connected() || client.available()) 
     {char d = client.read(); price = price+d;}
 
     client.stop();
@@ -145,15 +147,15 @@ void fetchPrice(){
 
 else{
   
-    String btcPrice = root["bitcoin"]["usd"];
+         String btcPrice = root["bitcoin"]["usd"];
 	  float adaPrice = root["cardano"]["usd"];
 	  float cexPrice = root["coinex-token"]["usd"];
 	  float crvPrice = root["curve-dao-token"]["usd"];
 	  float matPrice = root["matic-network"]["usd"];
 	  float xlmPrice = root["stellar"]["usd"];
 	  float kmdPrice = root["komodo"]["usd"];
-    float litecoinPrice = root["litecoin"]["usd"];
-          verusPrice = root["verus-coin"]["usd"];
+     float litecoinPrice = root["litecoin"]["usd"];
+              verusPrice = root["verus-coin"]["usd"];
   
     Serial.println("coingecko.com");
      

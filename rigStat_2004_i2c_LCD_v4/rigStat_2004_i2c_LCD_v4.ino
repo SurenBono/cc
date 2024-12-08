@@ -158,22 +158,22 @@ else{
     Serial.println("coingecko.com");
      
     Serial.print("BTC " + btcPrice);
-	  Serial.print("  ADA " + String(adaPrice,2));
-	  Serial.print("  KMD " + String(kmdPrice,2));
-	  Serial.print("  CEX " + String(cexPrice,2));
-	  Serial.println("  CRV " + String(crvPrice,2));
-	  Serial.print("MAT " + String(matPrice,2));
-	  Serial.print("  XLM " + String(xlmPrice,2));
-	  Serial.print("  VRSC " + String(verusPrice,2));
+    Serial.print("  ADA " + String(adaPrice,2));
+    Serial.print("  KMD " + String(kmdPrice,2));
+    Serial.print("  CEX " + String(cexPrice,2));
+    Serial.println("  CRV " + String(crvPrice,2));
+    Serial.print("MAT " + String(matPrice,2));
+    Serial.print("  XLM " + String(xlmPrice,2));
+    Serial.print("  VRSC " + String(verusPrice,2));
     Serial.println("  LTC " + String(litecoinPrice,2));
     Serial.println("====================================================================================");
    
     lcd.clear();
     lcd.setCursor(0,0);lcd.print("CPTO/USD ");
-	  lcd.setCursor(10,0);lcd.print("BTC " + btcPrice);
-	  lcd.setCursor(0,1);lcd.print("ADA " + String(adaPrice,2));
-	  lcd.setCursor(10,1);lcd.print("KMD " + String(kmdPrice,2));
-	  lcd.setCursor(0,2);lcd.print("CRV " + String(crvPrice,2));
+    lcd.setCursor(10,0);lcd.print("BTC " + btcPrice);
+    lcd.setCursor(0,1);lcd.print("ADA " + String(adaPrice,2));
+    lcd.setCursor(10,1);lcd.print("KMD " + String(kmdPrice,2));
+    lcd.setCursor(0,2);lcd.print("CRV " + String(crvPrice,2));
     lcd.setCursor(10,2);lcd.print("CEX " + String(cexPrice,2));
     lcd.setCursor(0,3);lcd.print("VRC " + String(verusPrice,2));
     lcd.setCursor(10,3);lcd.print("LTC " + String(litecoinPrice,2));

@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
-#include <ArduinoJson.h>
+#include <ArduinoJson.h> // version 5
 
 const char* ssid = "Arduino Wifi";
 const char* password = "xxxxxxxx";
@@ -75,7 +75,7 @@ void fetchRig() {
   if (!root.success())
   {Serial.println("...Rig parse failed!");lcd.clear();("...reparsing rig data");}
 
-else {
+    else {
     String Hash  = root["hashrateString"];
     float Share = root["shares"];
     float Immature = root["immature"];
@@ -92,7 +92,7 @@ else {
    
     lcd.clear();
     lcd.setCursor(0,0);lcd.print(Hash);
-	  lcd.setCursor(9,0);lcd.print("Shr: "+ String(Share,0));
+    lcd.setCursor(9,0);lcd.print("Shr: "+ String(Share,0));
     lcd.setCursor(0,1);lcd.print("Imt  : " + String(Immature,8));
     lcd.setCursor(0,2);lcd.print("Bal  : "  + String(Unpaid,8));
     lcd.setCursor(0,3);lcd.print("Paid : " + String(Paid,8));
@@ -107,7 +107,7 @@ else {
 	lcd.setCursor(5,3);lcd.print("USDT "+ String(vrscUSD,2));
 	
 	Serial.println("Komodo Wallet Bal : " + String(Komodo,6) + " VRSC =" + " USDT  "+ String(vrscUSD,2));
-  Serial.println("====================================================================================");
+        Serial.println("====================================================================================");
 
 	delay(10000);}
    

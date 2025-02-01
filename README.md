@@ -77,14 +77,20 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/hm.sh | bash
 ```
 _______________________________________
 
-Phone mining "HardWorkLuck" Transparent Revenues ..
+Phone mining "HardWorkLuck" 
+Check this Transparent Revenues...
 
 ![](pic/luckpool-userland.jpg)
 
-Komodo Blockchain: config.json
-https://insight.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
+Komodo Blockchain: config2.json
+https://explorer.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 
-Verus Blockchain: config2.json https://insight.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
+Verus Blockchain r-address:config1.json 
+https://explorer.verus.io/address/R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT
+
+Verus Blockchain i-address:config3.json 
+https://explorer.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
+
 _______________________________________
 Wallets:
 ![](pic/wallet.png)

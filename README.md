@@ -83,7 +83,7 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/hm.sh | bash
 ```
 _______________________________________
 This is how i monitor my mining activities...these are signals scanning transaction to be diversely verified from all over the world..and gets payout from the centralized server that runs the verus Blockchain ..very very tiny amount like 0.00001 % of the block verification fees/tx ...
-for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge system 
+for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge based ...i explored , tested & it worked..so i continued exploring elsewhere ( Telegram TON ) to diversify earnings like exchange Tradings & stakings .. it's fun but there are fakes too... DYOR
 
 ![](pic/luckpool-userland.jpg)
 

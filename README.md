@@ -54,7 +54,8 @@ VRSC Halving Periods
 2041 - 2043 = 0.01171875 VRSC 
 
 ..its just like testosterone levels 
-
+.. but so far only experience getting 2 loyalty block worth 1 VRSC *2
+.. there is no way i can explain s winning a block just mining on the phone .. its just a lucky pooly
 ----------------------------
 ```console
 sudo apt install curl
@@ -85,10 +86,10 @@ Check this Transparent Revenues...
 Komodo Blockchain: config2.json
 https://explorer.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB
 
-Verus Blockchain r-address:config1.json 
+Verus Blockchain r-address: config1.json 
 https://explorer.verus.io/address/R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT
 
-Verus Blockchain i-address:config3.json 
+Verus Blockchain i-address: config3.json 
 https://explorer.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 
 _______________________________________

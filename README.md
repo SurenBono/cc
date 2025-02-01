@@ -104,6 +104,18 @@ Wallets:
 my favorite was Komodo DEX wallet 
 .. after accumulated enough VRSC (~5) tested swapping to LTC where i successfully transferred to my government verified exchange in my country Luno Malaysia ... later transfered it to Bybit Exchange for 1% APR staking reward .. at least it grows .. let's see its progression after ~ 5 years ... it's not for a Lambo..like right now !
 ** dont move it a lot ..there are fees involved 
+
+Komodo Wallet internal Swap 
+![](Komodo_Wallet_Internal_DEX_SWAP.jpg)
+
+Growing it by time ..
+![](Staking.jpg)
+
+The Ultimate Plan ..
+![](UltimatePlan.jpg)
+
+... these are just a few steps we can do during times like Pandemic...old age.. gaming replacements earning s...etc
+
 _______________________________________
 
 Example running (*.Appimage) on Ubuntu

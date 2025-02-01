@@ -55,7 +55,7 @@ VRSC Halving Periods
 
 .. its just like testosterone levels 
 .. but so far only experience getting 2 loyalty block worth 1 VRSC *2
-.. there is no way i can explain s winning a block just mining on the phone .. its just a lucky pooly
+.. there is no way i can explain winning 2 block just mining on the phone in 5 months time.. its just a lucky pooly thingy
 
 ----------------------------
 ```console

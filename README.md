@@ -53,9 +53,7 @@ VRSC Halving Periods
 
 2041 - 2043 = 0.01171875 VRSC 
 
-..its just like testosterone levels 
-.. but so far only experience getting 2 loyalty block worth 1 VRSC *2
-.. there is no way i can explain s winning a block just mining on the phone .. its just a lucky pooly
+
 ----------------------------
 ```console
 sudo apt install curl

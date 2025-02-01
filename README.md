@@ -51,9 +51,13 @@ VRSC Halving Periods
 
 2039 - 2041 = 0.0234375 VRSC 
 
-2041 - 2043 = 0.01171875 VRSC 
+2041 - 2043 = 0.01171875 VRSC
 
 .. its just like testosterone levels 
+.. but it's values goes up by time .. hopefully 
+
+Explaining "HardWorkLuck" 
+
 .. but so far only experience getting 2 loyalty block worth 1 VRSC *2
 .. there is no way i can explain winning 2 block just mining on the phone in 5 months time.. its just a lucky pooly thingy
 
@@ -78,11 +82,12 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/xm.sh | bash
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/hm.sh | bash
 ```
 _______________________________________
-
-Phone mining "HardWorkLuck" 
-Check this Transparent Revenues...
+This is how i monitor my mining activities...these are signals scanning transaction to be diversely verified from all over the world..and gets payout from the centralized server that runs the verus Blockchain ..very very tiny amount like 0.00001 % of the block verification fees/tx ...
+for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge system 
 
 ![](pic/luckpool-userland.jpg)
+
+Check this Transparent Revenues...
 
 Komodo Blockchain: config2.json
 https://explorer.verus.io/address/RDLQZKbHMjSkhyQUG6u1AD5D8Lhqn6DmzB

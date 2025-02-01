@@ -91,7 +91,7 @@ https://play.google.com/store/apps/details?id=tech.ula
 ![](pic/Userland_VerusHash.jpg)
 
 This is how i monitor my mining activities...these are signals scanning transaction to be diversely verified from all over the world..and gets payout from the centralized server that runs the verus Blockchain ..very very tiny amount like 0.00001 % of the block verification fees/tx ...
-for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge based ...i explored , tested & it worked..so i continued exploring elsewhere ( Telegram TON ) to diversify earnings like exchange Tradings & stakings .. it's fun but there are fakes too... DYOR .. life should thrive not struck by risk ..
+for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge based ...i explored , tested & it worked..continu exploring elsewhere ( Telegram TON... etc) to diversify earnings like in Exchanges Tradings , Stocks & stakings .. it's fun but there are fakes too... DYOR .. life should thrive not struck by risk ..
 
 ![](pic/luckpool-userland.jpg)
 

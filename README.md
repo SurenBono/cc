@@ -109,7 +109,7 @@ Komodo Wallet internal Swap ..
 
 ![](pic/Komodo_Wallet_Internal_DEX_SWAP.jpg)
 
-Growing it by time ..
+Growing it by time .. ( Bybit Exchange Wallet Flexible Staking)
 
 ![](pic/Staking.jpg)
 

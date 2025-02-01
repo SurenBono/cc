@@ -83,7 +83,7 @@ curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/hm.sh | bash
 ```
 _______________________________________
 This is how i monitor my mining activities...these are signals scanning transaction to be diversely verified from all over the world..and gets payout from the centralized server that runs the verus Blockchain ..very very tiny amount like 0.00001 % of the block verification fees/tx ...
-for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge based ...i explored , tested & it worked..so i continued exploring elsewhere ( Telegram TON ) to diversify earnings like exchange Tradings & stakings .. it's fun but there are fakes too... DYOR
+for clearer understanding visit Vipor.net ... or mybe it's doing something else..who knows.. it's zero knowledge based ...i explored , tested & it worked..so i continued exploring elsewhere ( Telegram TON ) to diversify earnings like exchange Tradings & stakings .. it's fun but there are fakes too... DYOR .. life should thrive not struck by risk ..
 
 ![](pic/luckpool-userland.jpg)
 
@@ -101,7 +101,9 @@ https://explorer.verus.io/address/i8S1Cigo4jPmLzfGvwWbP4trbuaDFbgSD5
 _______________________________________
 Wallets:
 ![](pic/wallet.png)
-
+my favorite was Komodo DEX wallet 
+.. after accumulated enough VRSC (~5) tested swapping to LTC where i successfully transferred to my government verified exchange in my country Luno Malaysia ... later transfered it to Bybit Exchange for 1% APR staking reward .. at least it grows
+** dont move it a lot ..there are fees involved 
 _______________________________________
 
 Example running (*.Appimage) on Ubuntu 

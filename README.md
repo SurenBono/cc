@@ -106,13 +106,13 @@ my favorite was Komodo DEX wallet
 ** dont move it a lot ..there are fees involved 
 
 Komodo Wallet internal Swap 
-![](Komodo_Wallet_Internal_DEX_SWAP.jpg)
+![](pic/Komodo_Wallet_Internal_DEX_SWAP.jpg)
 
 Growing it by time ..
-![](Staking.jpg)
+![](pic/Staking.jpg)
 
 The Ultimate Plan ..
-![](UltimatePlan.jpg)
+![](pic/UltimatePlan.jpg)
 
 ... these are just a few steps we can do during times like Pandemic...old age.. gaming replacements earning s...etc
 

@@ -1,7 +1,7 @@
 VERUS POWER (kWh) EFFICIENT MINING DOCUMENTATION & NOTES by Suren 2024/25
 
 # 20*04 i2c LCD 
- ... a moment somewhere in time
+ ... a moment somewhere in time ..zzz
 ![](pic/20r04c_i2c_lcd.jpg)
 ![](pic/LuckPoolApi.jpg)
 

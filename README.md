@@ -167,7 +167,7 @@ Download from https://verus.io/wallet/desktop
   - Actually its $100 per registration id but i never paid anything yet..
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
 
-Goals : Capture the flag of humanity.. next Capture World Coin (WLD)
+Goals : Capture the flag of humanity.. next : Complete World Coin (WLD) registration with a retinal scan verification.. we are not a Bot.
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

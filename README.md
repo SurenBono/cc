@@ -1,4 +1,4 @@
-VERUS POWER (kWh) EFFICIENT MINING DOCUMENTATION & NOTES by Suren 2024/25
+VERUS POWER EFFICIENT (kWh) PHONE MINER DOCUMENTATION & NOTES by Suren 2024/25
 
 # 20*04 i2c LCD 
  ... a moment somewhere in time ..zzz
@@ -122,6 +122,8 @@ Growing it by time .. ( Bybit Exchange Wallet Flexible Staking)
 ![](pic/Staking.jpg)
 
 The Ultimate Plan ...
+Transparent Luno Malaysia LTC address 
+https://litecoinspace.org/address/MGB9eB42n3RFJZEZf6ni74PKVnGfCeGonG
 
 ![](pic/UltimatePlan.jpg)
 
@@ -165,7 +167,7 @@ Download from https://verus.io/wallet/desktop
   - Actually its $100 per registration id but i never paid anything yet..
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
 
-Goals : Capture the flag of humanity..
+Goals : Capture the flag of humanity.. next Capture World Coin (WLD)
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

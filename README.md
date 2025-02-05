@@ -121,13 +121,13 @@ Growing it by time .. ( Bybit Exchange Wallet Flexible Staking)
 
 ![](pic/Staking.jpg)
 
-The Ultimate Plan ...
-Transparent Luno Malaysia LTC address 
+The Ultimate Plan ..
+My Transparent Luno Malaysia LTC address immutable track record
 https://litecoinspace.org/address/MGB9eB42n3RFJZEZf6ni74PKVnGfCeGonG
 
 ![](pic/UltimatePlan.jpg)
 
-... these are just a few steps we can do during times like Pandemic...old age.. gaming replacements earnings...etc
+... these are just a few steps we can do during times like Pandemic...old age.. gaming replacements earnings .. or for people with disability...etc
 
 _______________________________________
 

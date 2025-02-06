@@ -1,3 +1,5 @@
+// rigStat_2004_i2c_LCD_v5_radd.ino
+
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <ESP8266WiFi.h>
@@ -5,7 +7,7 @@
 #include <ArduinoJson.h> // version 5
 
 const char* ssid = "Arduino Wifi";
-const char* password = "t*******1";
+const char* password = "t*******1"; // get a stable network fibre router 
 const char* url = "https://luckpool.net/verus/miner/R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT";
 const char* crypto = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,bitget-token,cardano,ethereum,litecoin,ripple,solana,verus-coin,worldcoin-wld&vs_currencies=usd";
 

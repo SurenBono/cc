@@ -1,7 +1,7 @@
 VERUS POWER EFFICIENT (kWh) PHONE MINER DOCUMENTATION & NOTES by Suren 2024/25
 
 # 20*04 i2c LCD 
- ... a moment somewhere in time..
+ ... a moment somewhere in time ...
  ![](pic/v4_radd.jpg)
 ![](pic/LuckPoolApi.jpg)
 

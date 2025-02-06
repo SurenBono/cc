@@ -127,7 +127,7 @@ My Transparent LTC addresses immutable track record
 Komodo LTC on explorer :
 https://litecoinspace.org/address/LPHAk21pqZtEtmjRy4uBLhomaHcXH8Ecnk
 
-Komodo LTC to Luno Malaysia LTC to Bybit LTC on explorer :
+Komodo LTC to Luno Malaysia LTC to Bybit LTC on explorer + UnMINABLE payouts ( 1st test ):
 https://litecoinspace.org/address/MGB9eB42n3RFJZEZf6ni74PKVnGfCeGonG
 
 Bybit LTC on explorer:

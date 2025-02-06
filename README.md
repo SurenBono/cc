@@ -122,14 +122,15 @@ Growing it by time .. ( Bybit Exchange Wallet Flexible Staking)
 ![](pic/Staking.jpg)
 
 The Ultimate Plan ..
-My Transparent Luno Malaysia LTC address immutable track record
+My Transparent LTC addresses immutable track record
 
-Komodo LTC explorer :
+Komodo LTC on explorer :
+https://litecoinspace.org/address/LPHAk21pqZtEtmjRy4uBLhomaHcXH8Ecnk
 
-Komodo LTC to Luno Malaysia LTC :
+Komodo LTC to Luno Malaysia LTC to Bybit LTC on explorer :
 https://litecoinspace.org/address/MGB9eB42n3RFJZEZf6ni74PKVnGfCeGonG
 
-Luno Malaysia LTC to Bybit LTC :
+Bybit LTC on explorer:
 https://litecoinspace.org/address/LMoRWsaVWzqyYPEbzZL9NHbRbgoYVJYuS4
 
 ![](pic/UltimatePlan.jpg)

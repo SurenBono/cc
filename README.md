@@ -177,6 +177,8 @@ Download from https://verus.io/wallet/desktop
   - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel
  
   Alternative P2E ( Play2Earn )
+  example: Telegram TON Platform
+  p/s : Higher scam risk & failure of Token generation & legitimacy of something like meme fart or shit coins..
 
   ![](pic/TelegramGaming.jpg)
 

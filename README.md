@@ -179,7 +179,7 @@ Download from https://verus.io/wallet/desktop
   Alternative P2E ( Play2Earn )
   example: Telegram TON Platform
   p/s : Higher scam risk & failure of Token generation & legitimacy of something like meme fart or shit coins.. keep diversifying your efforts .. fail safe low risk high stake strategy & opt for no lambos ... DYOR
-  ..nobody can help you as good as your ownself...
+  ..nobody can help you as good as your ownself... all this could just be untrue.. that's your right in judgements 
 
   ![](pic/TelegramGaming.jpg)
 

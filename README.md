@@ -61,7 +61,7 @@ VRSC Halving Periods
 Explaining "HardWorkLuck" 
 
 .. but so far only experience getting 2 loyalty block worth 1 VRSC *2
-.. there is no way i can explain winning 2 block just mining on the phone in 5 months time.. its just a lucky pooly thingy
+.. there is no way i can explain winning 2 block just mining on the phone in 5 months time.. its just plain luck
 
 ----------------------------
 ```console
@@ -135,7 +135,7 @@ https://litecoinspace.org/address/LMoRWsaVWzqyYPEbzZL9NHbRbgoYVJYuS4
 
 ![](pic/UltimatePlan.jpg)
 
-... these are just a few steps we can do during times like Pandemic...old age.. gaming replacements earnings .. or for people with disability...etc
+... these are just a few steps we can do during times like Pandemic...retirees.. gaming replacements earnings .. or for people with disability...etc
 
 _______________________________________
 

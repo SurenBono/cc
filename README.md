@@ -157,7 +157,7 @@ Download from https://verus.io/wallet/desktop
 - But there is more to debug , i had trouble just to post the Appimage
 - the game is " debug for reward ".
 - Ubuntu goals links to Machine+Humanitarian efforts ..
-- I imagined 8 Billion daily account payouts for everyone...
+- I imagined 8 Billion daily account payouts for everyone... 
 
   What's The Catch:
   - Kwh , grid & off grid efficiency
@@ -179,7 +179,7 @@ Download from https://verus.io/wallet/desktop
   Alternative P2E ( Play2Earn )
   example: Telegram TON Platform
   p/s : Higher scam risk & failure of Token generation & legitimacy of something like meme fart or shit coins.. keep diversifying your efforts .. fail safe low risk high stake strategy & opt for no lambos ... DYOR
-  ..nobody can help you as good as your ownself... all this could just be untrue.. that's your right in judgements 
+  ..nobody can help you as good as your ownself... all this could just be untrue.. that's your right in judgements ..im just an explorer mybe just a little plunderer...it hurt no one..the bigger loss is yet to come..but for now just flow..
 
   ![](pic/TelegramGaming.jpg)
 

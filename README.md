@@ -164,6 +164,7 @@ Download from https://verus.io/wallet/desktop
   - Probably CPU & GPU Sales & Marketing 
   - Thermal engineering 
   - ISP & Government recognition
+  - Smartphone sales & repurposing 
   - Server & web3 Community 
   - Humanitarian effort
   - Cognition & passive income
@@ -173,7 +174,11 @@ Download from https://verus.io/wallet/desktop
   - Open source legitimacy
   - Unity , Peace & Prosperity
   - Actually its $100 per registration id but i never paid anything yet..
-  - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel 
+  - Get free verus id on discord (user.valuid@).. Enter "/getid" in Verus discord #valuverse channel
+ 
+  Alternative P2E ( Play2Earn )
+
+  ![](pic/TelegramGaming.jpg)
 
 Goals : Capture the flag of humanity.. Next : Complete World Coin (WLD) registration with a retinal scan verification.. we are not a Bot!
   

@@ -184,6 +184,12 @@ Download from https://verus.io/wallet/desktop
   ![](pic/TelegramGaming.jpg)
 
 Goals : Capture the flag of humanity.. Next : Complete World Coin (WLD) registration with a retinal scan verification.. we are not a roBot!
+
+Useful Links:
+https://worldcoin.org/join/FGJLX8B
+
+https://play.google.com/store/apps/details?id=com.bitget.exchange
+Use referral code: CU0R7RUZ
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

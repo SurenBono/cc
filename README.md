@@ -213,7 +213,7 @@ https://www.bybitglobal.com/invite?ref=29LMMDV
 Luno Wallet Malaysia 
 https://www.luno.com/invite/PRHQQT
 
-HATA Global/Malaysian
+HATA Global/Malaysia (Local) Wallet 
 https://hata.io/signup?ref=HBY0667
 
 Verus Wallet 

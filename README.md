@@ -187,6 +187,12 @@ Goals : Capture the flag of humanity.. Next : Complete World Coin (WLD) registra
 
 Useful Links:
 
+
+
+https://pangz-lab.github.io/verusminer/
+
+http://www.srbminer.com
+
 WorldCoin Apps 
 https://worldcoin.org/join/FGJLX8B
 

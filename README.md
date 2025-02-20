@@ -233,7 +233,7 @@ https://user.abmining.pro/login
 https://apps.bigminings.org/login
 
 
-
+p/s: Lets Prosper & Co-exist towards preservation of other lifeforms & environments...
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

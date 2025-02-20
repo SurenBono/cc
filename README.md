@@ -186,15 +186,26 @@ Download from https://verus.io/wallet/desktop
 Goals : Capture the flag of humanity.. Next : Complete World Coin (WLD) registration with a retinal scan verification.. we are not a roBot!
 
 Useful Links:
+
+WorldCoin Apps 
 https://worldcoin.org/join/FGJLX8B
 
+Bitget Exchange 
 https://play.google.com/store/apps/details?id=com.bitget.exchange
 Use referral code: CU0R7RUZ
 
+Pi Apps
 https://play.google.com/store/apps/details?id=com.blockchainvault
 Use referral: SurenBono 
 
+Bybit Exchange 
 https://www.bybitglobal.com/invite?ref=29LMMDV
+
+Luno Wallet Malaysia 
+https://www.luno.com/invite/PRHQQT
+
+HATA Global/Malaysian
+https://hata.io/signup?ref=HBY0667
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

@@ -190,6 +190,11 @@ https://worldcoin.org/join/FGJLX8B
 
 https://play.google.com/store/apps/details?id=com.bitget.exchange
 Use referral code: CU0R7RUZ
+
+https://play.google.com/store/apps/details?id=com.blockchainvault
+Use referral: SurenBono 
+
+https://www.bybitglobal.com/invite?ref=29LMMDV
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

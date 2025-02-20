@@ -187,10 +187,13 @@ Goals : Capture the flag of humanity.. Next : Complete World Coin (WLD) registra
 
 Useful Links:
 
+Userland Google Play Store
+https://play.google.com/store/apps/details?id=tech.ula
 
-
+Pangz Verus Miner
 https://pangz-lab.github.io/verusminer/
 
+CPU/GPU Console Miner
 http://www.srbminer.com
 
 WorldCoin Apps 
@@ -212,6 +215,8 @@ https://www.luno.com/invite/PRHQQT
 
 HATA Global/Malaysian
 https://hata.io/signup?ref=HBY0667
+
+
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

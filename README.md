@@ -233,7 +233,7 @@ https://user.abmining.pro/login
 https://apps.bigminings.org/login
 
 
-p/s: Lets Prosper & Co-exist towards preservation of other lifeforms & environments...
+p/s: Lets Prosper & Co-exist towards preservation of other lifeforms & environments... before any supernovas 
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)
 The Flag Of Humanity,

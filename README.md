@@ -216,6 +216,23 @@ https://www.luno.com/invite/PRHQQT
 HATA Global/Malaysian
 https://hata.io/signup?ref=HBY0667
 
+Verus Wallet 
+https://play.google.com/store/apps/details?id=org.autonomoussoftwarefoundation.verusmobile.android
+
+Komodo Atomic CEX wallet
+https://komodoplatform.com/en/wallet/
+
+CoinMarketCap ( Portfolio Apps )
+https://play.google.com/store/apps/details?id=com.coinmarketcap.android
+
+Crypto Calculator 
+https://play.google.com/store/apps/details?id=com.currencyapp
+
+Cloud Miners 
+https://user.abmining.pro/login
+https://apps.bigminings.org/login
+
+
 
   
 ![TheFlagOfHumanity](pic/TheFlagOfHumanity.jpg)

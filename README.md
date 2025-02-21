@@ -232,6 +232,9 @@ Cloud Miners
 https://user.abmining.pro/login
 https://apps.bigminings.org/login
 
+Linux Basics
+https://play.google.com/store/apps/details?id=hiducation.linuxbasics
+
 
 p/s: Lets Prosper & Co-exist towards preservation of other lifeforms & environments... before any supernovas 
   

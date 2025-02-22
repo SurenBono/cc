@@ -219,7 +219,7 @@ https://hata.io/signup?ref=HBY0667
 Verus Wallet 
 https://play.google.com/store/apps/details?id=org.autonomoussoftwarefoundation.verusmobile.android
 
-Komodo Atomic CEX wallet
+Komodo Atomic Swap wallet
 https://komodoplatform.com/en/wallet/
 
 CoinMarketCap ( Portfolio Apps )

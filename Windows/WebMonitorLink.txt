@@ -1,3 +1,7 @@
+
+Download:
+https://docs.verus.io/economy/start-mining.html#suitable-devices
+
 io R-add :
 https://poolweb.verus.io/workers/R9QnyT5j4515RZnwg6T8KYAp7EskoWgfGT
 

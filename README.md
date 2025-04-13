@@ -97,6 +97,11 @@ for clearer understanding visit Vipor.net ... or mybe it's doing something else.
 
 ![](pic/luckpool-userland.jpg)
 
+Example of hitting a Luckpool Jackpot 
+Halving has bought it down to 0.1 on 2025 ... felt lucky anyway 
+
+![](pic/LuckpoolJackpot.jpg)
+
 Check this Transparent Revenues...
 
 Komodo Blockchain: config2.json

@@ -97,8 +97,8 @@ for clearer understanding visit Vipor.net ... or mybe it's doing something else.
 
 ![](pic/luckpool-userland.jpg)
 
-Example of hitting a Luckpool Jackpot 
-Halving has bought it down to 0.1 on 2025 ... felt lucky anyway 
+Example of hitting a Luckpool Jackpot just on a phone miner ...
+Halving has bought it down to 0.1 on April 2025 .. it didn't match what was earlier purposed (1-3 VRSC 2025-27)... felt lucky anyway 
 
 ![](pic/LuckpoolJackpot.jpg)
 

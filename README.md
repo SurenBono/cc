@@ -1,5 +1,7 @@
 VERUS POWER EFFICIENT (kWh) PHONE MINER DOCUMENTATION & NOTES by Suren , Kluang 2024/25 . 
 
+...for the quest for faster , cooler , cheaper , cleaner , longer , lighter , safer , smaller , quieter & recyclable/reprogrammable/repurposeable (F.3C.2L.2S.Q.R³) ... profitable in all aspects including Storage space  , Time  & Financially things ...
+
 # 20*04 i2c LCD 
  ... a moment somewhere in time ...
  ![](pic/v4_radd.jpg)

@@ -242,6 +242,11 @@ https://apps.bigminings.org/login
 Linux Basics
 https://play.google.com/store/apps/details?id=hiducation.linuxbasics
 
+HeatMaps
+https://finviz.com/map.ashx
+
+Charts
+https://www.tradingview.com/
 
 p/s: Lets Prosper & Co-exist towards preservation of other lifeforms & environments... before any supernovas 
   

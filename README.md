@@ -73,10 +73,9 @@ sudo apt install curl
 ```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i.sh | bash
 ```
-(Run)
-'''console
+(Run) ```console
 ./k.sh
-'''
+```
 (i2.sh * 2 address ) Dual miner 2nd Rig
 ```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/cc/main/i2.sh | bash
